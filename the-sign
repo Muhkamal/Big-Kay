@@ -1,0 +1,236 @@
+<!DOCTTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--==Title=========================================>-->
+<title> The Originals Season 2</title>
+<link rel="stylesheet" href="swiper-bundle.min.js.map" />
+<!---==import-poppins-font==================-->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+
+<!--==Using-Font-Awesome===================-->
+<script src="js/fontawesome.min.css" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="js/fontawesome-free-6.5.1-web/css/all.min.css">
+<link rel="stylesheet" href="style.css"/>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6628342899530190"
+     crossorigin="anonymous"></script>
+</head>
+<body> 
+  	<!--Scroll-Progress-bar====================-->
+	<div id="progress">
+		<span id="progress-value"></span>
+	</div>
+	<!--==Navigation======================-->
+	<nav class="navigation">
+
+		<!--menu-btn--------------->
+		<input type="checkbox" class="menu-btn" id="menu-btn">
+		<label for="menu-btn" class="menu-icon">
+		<span class="nav-icon"></span>
+		</label>
+
+		<!--logo-------------------->
+		<a href="index.html" class="logo">
+			Big~Kay<span>.tv</span>
+		</a>
+		<!--menu------------------->
+		<ul class="menu">
+
+			<li><a href="#">Home</a></li>
+			<li><a href="#">Genre</a></li>
+			<li><a href="#">TV Shows</a></li>
+			<li><a href="#">Movies</a></li>
+			<li><a href="#">Contact</a></li>
+		</ul>
+
+		<!--Search-box------------>
+		<form action="" class="search-box">
+
+			<!--input-->
+			<input type="text" name="search" placeholder="Search Movie" class="search-input" required/>
+		
+			<!--btn-------------------->
+			<button type="submit">
+				<i class="fas fa-search" aria-hidden="true"></i>
+			</button>
+		</form>
+	</nav>
+	<!--nav-end-->
+
+
+  <section class="movie-banner">
+
+    <div class="m-banner-img">
+      <img src="curtain1.jpg" alt="">
+    </div>
+    <div class="banner-container">
+      <div class="title-container"> 
+        <div class="title-top">
+        <div class="movie-title">
+          <h1> Curtain Call</h1>
+        </div>
+        <div class="more-about-movie">
+          <span class="quality"> Full HD  </span>  89
+          <div class="rating">
+               <img src="sign.jpg" alt="imbd">
+          </div>
+          <span>October 31 - December 27, 2022</span>
+          <span>Episodes: 16</span>
+      </div>
+      
+      <div class="language">
+        <span>Korean</span>
+      </div>
+      </div>
+
+      <div class="title-bottom">
+        <div class="category">
+          <strong> category</strong><br/>
+          <a href="#"> Love</a>,<a href="#">Comedy</a>,<a href="#"></a>
+        </div>
+        <a href="https://youtu.be/LoZp50lnD1o?si=mghXC2eEW_41SyVI" class="watch-btn">Watch Trailer </a>
+      </div>
+
+    </div>
+ 
+        <div class="play-btn-container">
+          <div class="play-btn">
+            <a href="javascript:void">
+              <i class="fas fa-play"></i>
+            </a>
+          </div>
+        </div>
+        <div id="play" class="play">
+          <a href="javascript:void" class="close-movie">
+            <i class="fas fa-time"></i>
+          </a>
+          <div class="play-movie">
+            <video id="m-video" controls>
+              <source src="https://downloadwella.com/hki627piogr7/Curtain.Call.E01.(NKIRI.COM).mkv.html" type="video/MP4">
+            </video>
+          </div>
+        </div>
+    </div>
+  </section>
+  <!---Banner-end----------------------------->
+
+
+
+
+
+
+
+
+  <section class="movie-details">
+    <strong>The Sign (2023)</strong>
+    <p>
+      For as long as Tharn can remember, he's had premonitions about those around him, sensing both the good and the bad.
+      
+      Partners on a team of special investigators, when kind and cheerful Tharn met clever and charming Phaya, it felt as though they'd known each other for a long time.
+      
+      Adapted from the novel "Premonition" (ลางสังหรณ์) by I-Rain-Yia (ไอเรนเยีย).
+      
+      Episodes: 10</p>
+  </section>
+
+
+ <button> <a href="https://pladrac.net/download?id=Mzk1NDI3&title=The+Sign+%282023%29&typesub=SUB&sub=&cover=Y292ZXIvdGhlLXNpZ24tMTY5ODczOTQ1NC5wbmc=&mip=0.0.0.0&refer=https://draplay.info/&op=1">Download Ep 1</a> </button> 
+ <button> <a href="https://pladrac.net/download?id=Mzk2MTk4&title=The+Sign+%282023%29&typesub=SUB&sub=&cover=Y292ZXIvdGhlLXNpZ24tMTY5ODczOTQ1NC5wbmc=&mip=0.0.0.0&refer=https://draplay.info/&op=1">Download Ep 2</a> </button> 
+ <button> <a href="https://pladrac.net/download?id=Mzk2ODA0&title=The+Sign+%282023%29&typesub=SUB&sub=&cover=Y292ZXIvdGhlLXNpZ24tMTY5ODczOTQ1NC5wbmc=&mip=0.0.0.0&refer=https://draplay.info/&op=1">Download Ep 3</a> </button> 
+ <button> <a href="https://pladrac.net/download?id=Mzk3MzEx&title=The+Sign+%282023%29&typesub=SUB&sub=&cover=Y292ZXIvdGhlLXNpZ24tMTY5ODczOTQ1NC5wbmc=&mip=0.0.0.0&refer=https://draplay.info/&op=1">Download Ep 4</a> </button> 
+ <button> <a href="https://pladrac.net/download?id=Mzk3NzE3&title=The+Sign+%282023%29&typesub=SUB&sub=&cover=Y292ZXIvdGhlLXNpZ24tMTY5ODczOTQ1NC5wbmc=&mip=0.0.0.0&refer=https://draplay.info/&op=1"> Download Ep 5</a></button> 
+ <button> <a href="https://pladrac.net/download?id=Mzk4MTc2&title=The+Sign+%282023%29&typesub=SUB&sub=&cover=Y292ZXIvdGhlLXNpZ24tMTY5ODczOTQ1NC5wbmc=&mip=0.0.0.0&refer=https://draplay.info/&op=1">Download Ep 6</a> </button> 
+ <button> <a href="https://pladrac.net/download?id=Mzk4NTYw&title=The+Sign+%282023%29&typesub=SUB&sub=&cover=Y292ZXIvdGhlLXNpZ24tMTY5ODczOTQ1NC5wbmc=&mip=0.0.0.0&refer=https://draplay.info/&op=1"> Download Ep 7</a></button> 
+ <button> <a href="https://pladrac.net/download?id=Mzk5MDQ5&title=The+Sign+%282023%29&typesub=SUB&sub=&cover=Y292ZXIvdGhlLXNpZ24tMTY5ODczOTQ1NC5wbmc=&mip=0.0.0.0&refer=https://draplay.info/&op=1">Download Ep 8</a> </button> 
+ <button> <a href="https://pladrac.net/download?id=Mzk5ODU1&title=The+Sign+%282023%29&typesub=SUB&sub=&cover=Y292ZXIvdGhlLXNpZ24tMTY5ODczOTQ1NC5wbmc=&mip=0.0.0.0&refer=https://draplay.info/&op=1">Download Ep 9</a> </button> 
+ <button> <a href="https://pladrac.net/download?id=NDAwNjA1&title=The+Sign+%282023%29&typesub=SUB&sub=&cover=Y292ZXIvdGhlLXNpZ24tMTY5ODczOTQ1NC5wbmc=&mip=0.0.0.0&refer=https://draplay.info/&op=1"> Download Ep 10</a></button> 
+ <button> <a href="https://pladrac.net/download?id=NDAxMzE1&title=The+Sign+%282023%29&typesub=SUB&sub=&cover=Y292ZXIvdGhlLXNpZ24tMTY5ODczOTQ1NC5wbmc=&mip=0.0.0.0&refer=https://draplay.info/&op=1"> Download Ep 11</a></button> 
+ <button> <a href="https://pladrac.net/download?id=NDAyOTk2&title=The+Sign+%282023%29&typesub=SUB&sub=&cover=Y292ZXIvdGhlLXNpZ24tMTY5ODczOTQ1NC5wbmc=&mip=0.0.0.0&refer=https://draplay.info/&op=1">Download Ep 12</a> </button> 
+
+
+  <!--==footer=================================-->
+<footer>
+	<!--footer-logo-->
+	<a href="well.html" class="logo">
+		Movie <span>hd</span>
+	</a>
+	<!--copyright------->
+	<span class="copyright">
+		copyright 2024 - Kay~man's World
+	</span>
+</footer>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <!--==JS-Swiper=================================-->
+  <script src="swiper-bundle.min.js"></script>
+  <!--==jQuery===============================-->
+  <script src="jquery.js"></script>
+
+ <script>
+   /*==progress-bar==================*/
+   let scrollprecentage = () =>{
+     let scrollprogress = document.getElementById("progress");
+     let progressValue = document.getElementById("progress-value");
+     let pos = document.documentElement.scrollTop;
+     let calcHeight = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+     let scrollValue = Math.round(pos * 100 / calcHeight);
+     scrollprogress.style.background = 'conic-gradient(#e70634 ${scrollValue}%, #2b2f38 ${scrollValue})';
+   }
+window.onscroll = scrollprecentage;
+window.onload = scrollprecentage;
+
+
+/*--menu-btn-fixed-when-scroll=============*/
+   $(window).scroll(function(){
+     if($(document).scrollTop() > 20){
+       $('navigation').addClass('fix-icon');
+     }
+     else{
+       $('navigation').removeClass('fix-icon');
+     }
+   });
+
+
+   $(document).on('click', '.play-btn a', function() {
+    $('.play').addClass('active-popup');
+   });
+
+   $(document).on('click', '.close-movie', function() {
+    $('.play').removeClass('active-popup');
+   });
+
+   $('.play-btn a').click(function(){
+      $('#m-video')[0].play();
+   });
+
+   $('.close-movie').click(function(){
+      $('#m-video')[0].pause();
+   });
+   </script>
+
+
+</body>
+</html>
